@@ -17,8 +17,8 @@ Type Following on any terminal
 
 ```
 
-![alt-text](https://github.com/aruncs31s/ethical-hacking/b lob/main/images/bash_version.png?raw=true)
+
+![alt-text](https://github.com/aruncs31s/ethical-hacking/blob/main/images/bash_version.png?raw=true)
 
 `man`
 
----
