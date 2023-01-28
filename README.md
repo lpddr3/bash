@@ -60,6 +60,11 @@ $ ls /bin
 
 _so we used `ls` to list all the files_
 
+![ls](https://github.com/aruncs31s/bash/blob/main/images/Screenshot%20from%202023-01-28%2013-57-01.png?raw=ture)
+
+*we can give some arguments to the ls command which will produce diffrent outputs*
+*for example "-S" argument combined with `ls` will show you the size of that file*
+
 ### All commands used
 
 **File Related commands**
@@ -69,6 +74,9 @@ _so we used `ls` to list all the files_
 | `ls`     | List all the files in the current directry      |
 | `pwd`    | Print the name of the current working directory |
 | `cd`     | change the current working directry             |
+| `mv`| move files to directories or rename files|
+|`cp`|copy files to directories |
+
 
 
 *****Linux programs found in /bin**
