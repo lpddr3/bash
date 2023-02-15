@@ -1,5 +1,5 @@
 
-# Bash
+# Bash Programming
 ### Basics
 - [Introduction](#introduction)
 - [Basic commands](#basic-commands)
